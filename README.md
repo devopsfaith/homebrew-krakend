@@ -1,3 +1,9 @@
+# This project is ARCHIVED
+KrakenD is now included in homebrew-core. You can install the latest Krakend with:
+
+	brew install krakend
+
+---------
 ## Homebrew KrakenD Tap
 
 Install KrakenD API Gateway in your Mac with this tap.
